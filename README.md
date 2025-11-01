@@ -1,3 +1,5 @@
+Mini Project: Number Guessing Game
+
 ## Mini Project: Number Guessing Game
 
 ### Project Author- Ayobami Aribasoye
@@ -19,4 +21,8 @@ I set the maximum attempts equals 2, if exceeded, the loop breaks and it tells t
 * **If** the guess is greater than the random number, it tells the user their guess is too high and asks them to try again.
 * **If** the guess is less than the random number, it tells the user their guess is too low and asks them to try again.
 * **If** the guess is outside the valid range (less than 1 or greater than 10), the program reminds the user to pick a number between 1 and 10.
+
+
+
+
 
